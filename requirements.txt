@@ -1,0 +1,7 @@
+# StudentFeedbackApp-
+streamlit
+pandas
+matplotlib
+transformers
+torch
+reportlab
